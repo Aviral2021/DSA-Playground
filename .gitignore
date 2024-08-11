@@ -1,6 +1,9 @@
-/.vscode
+# Ignore all These files with Extensions
+*.exe
+*.json
+*.txt
+
+# Ignore These folders
+.vscode/
 
 
-fraction.exe
-input.txt
-output.txt
